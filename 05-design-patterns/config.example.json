@@ -1,0 +1,6 @@
+{
+  "app": {"name": "ExamplePlatform", "debug": false},
+  "database": {"host": "localhost", "port": 5432},
+  "email": {"smtp_host": "smtp.example.test", "sender": "no-reply@example.test"},
+  "payment": {"api_key": "replace-with-local-secret", "environment": "sandbox"}
+}
