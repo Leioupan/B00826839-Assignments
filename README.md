@@ -9,3 +9,5 @@ This repository contains five numbered assignment folders based on the linked co
 5. `05-design-patterns/` — creational, structural, and behavioral pattern examples (the three course links comprise one assignment).
 
 Open a folder's README for its scope and run instructions. The source-based assignments include runnable examples; diagrams use Mermaid syntax supported by GitHub. No account names, repository URLs, or machine-specific credentials are embedded.
+
+Ai used for debugging and refining code as well as writing README in a friendly-to-the-eye manner.
